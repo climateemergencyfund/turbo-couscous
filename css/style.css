@@ -102,7 +102,7 @@ a:active {
     color: #AABFAC;
 }
 a:hover{
-    color: #9D41CF;
+    color: #AABFAC;
 }
 
 li {
@@ -168,7 +168,7 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
+    background: #3C733F;
     background: -webkit-linear-gradient(to right, #014005 0%, #AABFAC 100%);
     background: -webkit-linear-gradient(left, #014005 0%, #AABFAC 100%);
     background: linear-gradient(to right, #014005 0%, #AABFAC 100%);
@@ -626,7 +626,7 @@ ol {
 }
 
 .dream-dots span:nth-child(2) {
-    background-color: #9D41CF;
+    background-color: #AABFAC;
 }
 
 .dream-dots span:nth-child(3) {
@@ -642,7 +642,7 @@ ol {
 }
 
 .dream-dots span:nth-child(6) {
-    background-color: #9D41CF;
+    background-color: #AABFAC;
 }
 
 .dream-dots span:nth-child(7) {
@@ -1061,7 +1061,7 @@ p.artficial:before{
 }
 
 .video-btn:hover {
-    background-color: #4834d4;
+    background-color: #AABFAC;
     color: #222;
 }
 
@@ -1138,7 +1138,7 @@ p.artficial:before{
     padding: 20px 10px;
     text-align: center;
     vertical-align: middle;
-    background-color: #9D41CF;
+    background-color: #AABFAC;
     margin-bottom: 30px;
     transition: all .3s ease-in-out;
 }
@@ -1518,7 +1518,7 @@ p.artficial:before{
     top: 50%;
     transform: translateY(-50%);
     left: -20px;
-    background: #9D41CF;
+    background: #AABFAC;
     height: 270px !important;
     margin-left: 30px;
     border-radius: 40px;
@@ -1529,9 +1529,9 @@ p.artficial:before{
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    box-shadow: 0px 4px 13px 0 rgba(168,67,253,.3);
+    box-shadow: 0px 4px 13px 0 rgba(60, 115, 63, .3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #AABFAC;
 }
 .vertical-social li{
     padding: 7px 0;
@@ -1558,9 +1558,9 @@ p.artficial:before{
     min-height: 205px;
     padding-top: 37px;
     padding-bottom: 25px;
-    box-shadow: 4px 4px 10px 0 rgba(168,67,253,.3);
+    box-shadow: 4px 4px 10px 0 rgba(60, 115, 63,.3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #AABFAC;
 }
 .ico-platform-logo{
     margin-bottom: 25px;
@@ -2129,7 +2129,7 @@ p.artficial:before{
    position: absolute;
    top: 0;
    left: 50%;
-   background: #9D41CF;
+   background: #3c733f;
    left: calc(50% - 10px);
 }
 /*vertival line */
@@ -2142,7 +2142,7 @@ p.artficial:before{
    top: 10px;
    left: 50%;
    left: calc(50% - 1px);
-   background: #9D41CF;
+   background: #3c733f;
 }
 
 /*timeline block */
@@ -2150,8 +2150,8 @@ p.artficial:before{
    width: 50%;
     padding: 30px;
     background: linear-gradient(to right, #3C733F 0%, #014005 100%);
-    /* background: linear-gradient(#9D41CF 0%, #3C733F 100%); */
-    border: 1px solid #9D41CF;
+    /* background: linear-gradient(#3c733f 0%, #3C733F 100%); */
+    border: 1px solid #3c733f;
     width: calc(50% - 74px);
     text-align: left;
     position: relative;
@@ -2163,7 +2163,7 @@ p.artficial:before{
 .timeline .block .date{
     padding: 5px 10px;
     display: inline-block;
-    background: #9D41CF;
+    background: #3c733f;
     margin: 10px 0;
     color: #222;
     font-size: 13px;
@@ -2181,7 +2181,7 @@ p.artficial:before{
    height: 10px;
    border-radius: 50%;
    position: absolute;
-   background: #9D41CF;
+   background: #3c733f;
    top: 30px;
 }
 .timeline-split .timeline .block.block-left::after,
@@ -2190,7 +2190,7 @@ p.artficial:before{
     width: 95px;
     height: 2px;
     position: absolute;
-    background: #9D41CF;
+    background: #3c733f;
     top: 34px;
     z-index: -1;
     right: -78px;
@@ -2971,7 +2971,7 @@ footer a{
 }
 
 .footer-social-info a i:hover {
-    color: #9D41CF;
+    color: #3c733f;
 }
 
 .contact_info_area .contact_info {
@@ -3268,7 +3268,7 @@ footer a{
 * ----------------------------------------------------------------------------------------
 */
 .ico-counter{
-    background-image: linear-gradient(to right, #9D41CF 0%, #AABFAC 100%);
+    background-image: linear-gradient(to right, #3c733f 0%, #AABFAC 100%);
     padding: 40px;
     border-radius: 20px
 }
@@ -3410,7 +3410,7 @@ footer a{
     display: inline-block;
 }
 .doc-element{
-    background-color: #9D41CF;
+    background-color: #3c733f;
     border-radius: 4px;
     border-bottom: 2px solid #AABFAC;
     position: relative;
